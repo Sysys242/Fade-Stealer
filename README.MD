@@ -1,6 +1,6 @@
 # <div align="center"> 🔥Fade Staeler SRC LEAK🔥</div>  
 
-#### Fade Stealer is shitty skided from wasp stealer/grabber😊  
+#### Fade Stealer is stealer/grabber based on wasp :) 😊  
   
 
 ### What in  
